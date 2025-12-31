@@ -1,8 +1,8 @@
 ---
 
-# 📊 Excel to MySQL CDC Pipeline
+## 📊 Excel to MySQL CDC Pipeline
 
-A **Python-based batch ETL & CDC (Change Data Capture) pipeline** that ingests data from an Excel file into MySQL with:
+**Python-based batch ETL & CDC (Change Data Capture) pipeline** that ingests data from an Excel file into MySQL with:
 
 * **Historic layer** (append-only, full audit)
 * **CDC layer** (latest active snapshot)
@@ -10,7 +10,7 @@ A **Python-based batch ETL & CDC (Change Data Capture) pipeline** that ingests d
 
 This project demonstrates **real-world data engineering concepts** such as CDC, layered storage, auditability, and batch ingestion.
 
----
+
 
 ## 🏗️ High-Level Architecture
 
