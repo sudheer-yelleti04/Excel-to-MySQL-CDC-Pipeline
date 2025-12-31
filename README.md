@@ -105,7 +105,7 @@ openpyxl
 
 Create a `.env` file inside the `config/` directory.
 
-### `.env.example`
+### `.env`
 
 ```env
 DB_HOST=localhost
