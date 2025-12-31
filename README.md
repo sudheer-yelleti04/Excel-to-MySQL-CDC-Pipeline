@@ -46,7 +46,7 @@ excel-mysql-cdc-pipeline/
 │   └── main.py
 │
 ├── config/
-│   └── .env.example
+│   └── .env
 │
 ├── logs/
 │
@@ -64,7 +64,7 @@ excel-mysql-cdc-pipeline/
 | `data/raw`            | Source Excel files            |
 | `data/archive`        | Logical archive reference     |
 | `src/main.py`         | Main ETL + CDC logic          |
-| `config/.env.example` | Environment variable template |
+| `config/.env` | Environment variable template |
 | `logs`                | Execution logs (optional)     |
 | `requirements.txt`    | Python dependencies           |
 | `README.md`           | Project documentation         |
