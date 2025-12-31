@@ -333,7 +333,7 @@ MySQL connection closed
 ## 👤 Author
 
 **Yelleti Sudheer Kumar**
-Big Data & Data Engineering Enthusiast
+*(Big Data & Data Engineering Enthusiast)*
 
 ---
 
