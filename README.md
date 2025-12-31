@@ -10,7 +10,7 @@
 
 This project demonstrates **real-world data engineering concepts** such as CDC, layered storage, auditability, and batch ingestion.
 
-
+---
 
 ## 🏗️ High-Level Architecture
 
